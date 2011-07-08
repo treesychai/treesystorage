@@ -1,0 +1,19 @@
+$ sudo sh -c "echo'731027'| openssl aes-256-ecb > /home/treesy.key"
+
+apt-get install libX11-dev libXext-dev libXtst-dev
+
+qt:
+http://glendong.blogbus.com/logs/86484035.html
+
+mysql:
+http://www.mysql.com/downloads/mysql/
+
+http://www.virtualbox.org/wiki/Linux_Downloads
+
+
+
+auth_url=https://ec2-184-72-156-130.compute-1.amazonaws.com:11000/v1.0
+
+http://code.google.com/p/jtadf/
+
+http://plafer.tk/tag/sparkleshare/
